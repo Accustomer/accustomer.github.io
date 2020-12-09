@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Github测试
 
-You can use the [editor on GitHub](https://github.com/Accustomer/accustomer.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[README.md](https://github.com/Accustomer/accustomer.github.io/edit/main/README.md)是用来编写首页内容的，它是一个Markdown文件，我们可以使用Markdown文件编辑器对其进行编辑。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Github Pages使用了[Jekyll](https://jekyllrb.com/)将markdown里面的内容重建到网页。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Markdown基本语法
 
 ```markdown
-Syntax highlighted code block
+普通的字
 
-# Header 1
-## Header 2
-### Header 3
+# 标题 1
+## 标题 2
 
-- Bulleted
-- List
+- 第一点
+- 第二点
 
-1. Numbered
-2. List
+1. 一
+2. 二
 
-**Bold** and _Italic_ and `Code` text
+**粗体** and _斜体_ and `文件标注` text
 
-[Link](url) and ![Image](src)
+[链接名](链接地址) and ![图像名](图像地址)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+更多语法请自行上网搜索。
+
+
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Accustomer/accustomer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+可以在[repository settings](https://github.com/Accustomer/accustomer.github.io/settings)对主题进行选择。也可以在`_config.yml`文件中查看主题名。
+
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+关于Github的更多操作请查阅 [documentation](https://docs.github.com/categories/github-pages-basics/) .
